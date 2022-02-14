@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+This is my epic GitHub account.
+I do not do that much on here.
+
 <!--
 **Orenji64/Orenji64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
